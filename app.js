@@ -3,7 +3,7 @@
   'use strict';
   var D = window.ARK;
   var ACCENT = '#C8261F';
-  var IMG = 'assets/img/';
+  var IMG = '';
   var $ = function (id) { return document.getElementById(id); };
   var fmt = function (n) { return '$' + n.toLocaleString('es-CO'); };
   var byId = {};
